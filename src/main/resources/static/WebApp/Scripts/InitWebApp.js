@@ -10,6 +10,7 @@ function main(){
 
 function set(array,response){
     array = JSON.parse(response);
+    console.log(array);
 }
 
 
